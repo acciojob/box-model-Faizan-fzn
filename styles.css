@@ -1,29 +1,29 @@
 /*  your css code here. If applicable */
-.color{
+.container{
 	display: flex;
 	background-color: lightgray;
 	height: 200px;
-	width: 450px;
+	width: 500px;
 	border: 5px solid black;
 	border-radius: 45px;
 	align-items: center;
 }
 .green{
-	height: 100px;
-	width: 100px;
+	height: 110px;
+	width: 110px;
 	background-color: green;
 	border-radius: 50%;
-	margin-left: 70px;
+	margin-left: 85px;
 }
 .yellow{
-	height: 100px;
-	width: 100px;
+	height: 110px;
+	width: 110px;
 	background-color: yellow;
 	border-radius: 50%;
 }
 .red{
-	height: 100px;
-	width: 100px;
+	height: 110px;
+	width: 110px;
 	background-color: red;
 	border-radius: 50%;
 }
